@@ -9,8 +9,3 @@ variable "loc-name" {
   
 }
 
-
-variable "rg1_name" {
-    type = string
-    
-}
